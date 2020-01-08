@@ -1,10 +1,3 @@
-/*
-    Encrypted Arduino Communication Part 2
-    CMPUT 274 Fall 2019
-	SCOTT CHU ID #: 1570524
-    Simon Chen ID #: 1574384
-*/
-
 #include <Arduino.h>
 
 /*
